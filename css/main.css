@@ -927,7 +927,7 @@ a.menu-toggle {
 	-webkit-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
 	transform: translateX(-50%);
-	background-color: #05bca9;
+	background-color: #ffffff;
 	content: '\0020';
 	display: block;
 	-moz-transition: all 0.3s ease-in-out;
@@ -968,7 +968,7 @@ a.menu-toggle {
 	line-height: 30px;
 	text-decoration: none;
 	text-align: left;
-	color: #98999a;
+	color: #ffffff;
 	position: relative;
 	-moz-transition: color 0.3s ease-in-out;
 	-o-transition: color 0.3s ease-in-out;
@@ -1215,8 +1215,8 @@ a.menu-toggle {
 	letter-spacing: .4rem;
 }
 .intro-content .button:hover, .intro-content .button:focus {
-	color: #05bca9;
-	border-color: #05bca9;
+	color:#ffffff ;
+	border-color: #ffffff;
 }
 
 /**
